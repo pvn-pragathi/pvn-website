@@ -1,0 +1,19 @@
+.navbar-brand{
+    margin:auto !important;
+}
+
+.navbar{
+    height: 80px;
+}
+
+.nav-item, .navbar-brand, .dropdown-item{
+    font-size: 1.3em !important;
+}
+
+@media screen and (min-width: 992px) {
+    .navbar-brand{
+        margin-left: 15px !important;
+    }
+  }
+
+
